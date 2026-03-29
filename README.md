@@ -2,8 +2,8 @@
 
 **`Análista de Qualidade`**
 
-Me chamo Eduardo Jones UHlmann, tenho 20 anos e sou natural de Santa Catarina. Sou um profissional comunicativo, com rápida capacidade de aprendizado e facilidade para me adaptar a novas tecnologias. Atuo como Analista de Qualidade de Software na IPM Sistemas.
-Atualmente curso Engenharia de Software na UDESC, o que fortalece minha base técnica e amplia minha visão sobre arquitetura, análise, desenvolvimento e qualidade de sistemas. Busco constantemente novos desafios que me permitam evoluir profissionalmente na área de tecnologia, contribuindo com soluções eficientes, colaborando com a equipe e mantendo um olhar atento à inovação e à excelência em entregas..
+Me chamo Eduardo Jones Uhlmann, tenho 20 anos e sou natural de Santa Catarina. Sou um profissional comunicativo, com rápida capacidade de aprendizado e facilidade para me adaptar a novas técnologias. Atuo como Análista de Qualidade de Software na IPM Sistemas.
+Atualmente curso Engenharia de Software na UDESC, o que fortalece minha base técnica e amplia minha visão sobre arquitetura, análise, desenvolvimento e qualidade de sistemas. Busco constantemente novos desafios que me permitam evoluir profissionalmente na área de tecnologia, contribuindo com soluções eficientes, colaborando com a equipe e mantendo um olhar atento à inovação e à excelência em entregas.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/eduardo-jones-uhlmann/">
